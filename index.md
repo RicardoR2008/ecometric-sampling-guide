@@ -1,5 +1,10 @@
+---
+layout: page
+title: EcoMetric Sampling Advisor — Reference Guide
+permalink: /
+---
+
 # EcoMetric Sampling Advisor — Reference Guide
-# Upload this file to the Knowledge section of the Copilot Agent Builder
 
 ---
 
